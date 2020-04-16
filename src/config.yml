@@ -1,0 +1,7 @@
+#As configuraçoes da base de dados
+MySQL:
+    Usuario: 'root'
+    Senha: '0192cba3142'
+    Banco: 'rankup'
+    Ip: 'localhost'
+    Porta: '3306'
